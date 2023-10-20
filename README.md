@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" align="left" height="200" width="800" />  
+<img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" align="left" height="200" width="850" />  
   
 
 ### <div align="center">Hi 👋 I'm Aziey. A full time postgraduate student 👩‍🎓</div>  
