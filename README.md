@@ -66,6 +66,8 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Azieyy&&style=flat-square" align="center" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azieyy&" alt="azieyy" /></p>
 </div>  
   
 
@@ -79,8 +81,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azieyy&" alt="azieyy" /></p>
