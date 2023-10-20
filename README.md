@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Azieyy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <br/>  
 
@@ -74,6 +74,7 @@
 <br/>  
 
 <div align="center">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Azieyy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
