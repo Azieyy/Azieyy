@@ -61,7 +61,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Azieyy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azieyy&" alt="azieyy" /></p>
 <br/>  
 
 <div align="center">
